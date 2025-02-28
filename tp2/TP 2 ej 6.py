@@ -1,0 +1,8 @@
+print("hola mundo")
+print("Ingrese un número")
+a=int(input())
+print("Ingrese otro número")
+b=int(input())
+print("Ingrese un tercer número")
+c=int(input())
+print("El promedio de los números ingresados es=", (a+b+c)/3)

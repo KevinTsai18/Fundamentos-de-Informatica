@@ -1,0 +1,7 @@
+print("hola mundo")
+n=int(input("Ingrese un número binario de 4 cifras:"))
+n1=int(n%10*1)
+n2=int((n//10)%10*2)
+n3=int(((n//10)//10)%10*4)
+n4=int(((n//10)//10)//10*8)
+print(n, "en decimales equivale a", n1+n2+n3+n4)

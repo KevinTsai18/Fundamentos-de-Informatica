@@ -1,0 +1,12 @@
+print("Ingrese medida en metros")
+m=input()
+m=float(m)
+cm=(m*100)
+pulg=(cm/2.54)
+ft=(pulg/12)
+yd=(ft/3)
+print("En centímetros=",cm , "cm")
+print("En pulgadas=",pulg , "pulgadas")
+print("En pies=",ft , "pies")
+print("En yardas=",yd , "yardas")
+# COMO M YA ES FLOAT, LAS SUBSECUENTES OPERACIONES QUE INVOLUCREN A M TAMBIÉN SERÁN FLOAT.

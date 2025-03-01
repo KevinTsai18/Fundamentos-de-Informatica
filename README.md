@@ -8,3 +8,7 @@ de la carrera de Ingeniería Informática en la Universidad Argentina de la Empr
 - Thonny
 
 En este repositorio se encuentra el PDF, llamado "FdI__Guia_de_Trabajos_Practicos_2019", con la lista de ejercicios realizados. Cada carpeta corresponde a un módulo o trabajo práctico del PDF.
+
+Para ejecutar cada archivo/algoritmo, simplemente hay que abrirlo en un IDE de Python.
+
+Creado por: Leonardo Kevin Tsai (https://github.com/KevinTsai18)

@@ -11,4 +11,6 @@ En este repositorio se encuentra el PDF, llamado "FdI__Guia_de_Trabajos_Practico
 
 Para ejecutar cada archivo/algoritmo, simplemente hay que abrirlo en un IDE de Python y ejecutarlo.
 
+*Nota: Los archivos con "ex" en el nombre suelen ser formas alternativas de resolver el problema del enunciado correspondiente.
+
 Creado por: Leonardo Kevin Tsai (https://github.com/KevinTsai18)
